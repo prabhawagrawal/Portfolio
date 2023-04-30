@@ -1,0 +1,135 @@
+div{
+  margin: 0 0 0 0;
+}
+
+h1{
+  margin: 0;
+  font-size: 5.625rem;
+  font-family: 'Sacramento', cursive;
+  color: #4ab19a;
+  font-weight: normal;
+  line-height: 1;
+}
+
+h2{
+  color: #1e836c;
+  font-size: 2.5rem;
+}
+
+body{
+  color: #40514e;
+  margin: 0;
+  text-align: center;
+  font-family: 'Zilla Slab', serif;
+}
+
+.bio{
+  width: 30%;
+  margin: auto;
+}
+
+h2, h3{
+  font-family: 'Nunito', sans-serif;
+}
+
+.topcontainer{
+  padding-top: 150px;
+  background-color: #e0ebe8;
+}
+
+.bottomCloud{
+  position: absolute;
+  left: 25px;
+  bottom: 200px;
+  width: 15%;
+}
+
+hr{
+  border: dotted #f3f2f1 6.75px;
+  border-bottom: 0;
+  width: 4%;
+  margin: 75px auto;
+}
+
+.topCloud{
+  position: absolute;
+  right: 75px;
+  top: 15px;
+  width: 15%;
+}
+
+#subText{
+  padding-bottom: 75px;
+  font-size: 1.5rem;
+  color: #4ab19a;
+}
+
+#land{
+  margin-bottom: -4px;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.webImg, .guitarImg, .cycleImg{
+  width: 25%;
+}
+
+.webImg, .cycleImg{
+  float: left;
+  margin-right: 40px;
+}
+
+.guitarImg{
+  float: right;
+  margin-left: 40px;
+}
+
+h3, a{
+  color: #45b29a;
+  font-weight: normal;
+}
+
+.middle-container{
+  margin: 100px 0;
+}
+
+p{
+  line-height: 2;
+}
+
+.btn {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: 'Zilla Slab', serif;
+  color: #ffffff;
+  font-size: 20px;
+  background: #45b29a;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  margin: 0 5px 0 5px;
+}
+
+.btn:hover {
+  background: #4ecbaf;
+  text-decoration: none;
+}
+
+a{
+  margin: 10px 20px;
+  font-family: 'Zilla Slab', serif;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #000;
+}
+
+.bottom-container{
+  background-color: #c5ded7;
+  padding: 50px 0 20px;
+}
